@@ -19,8 +19,8 @@ driver = webdriver.Chrome()
 print("NAVIGATING TO NITROTYPE LOGIN...")
 driver.get("https://www.nitrotype.com/login")
 
-username = "bobiscoolbobiscool"
-password = "43-31-7"
+username = "username"
+password = "password"
 
 # Find the username and password textboxes by their ids
 print("GETTING USERNAME ELEMENT...")
